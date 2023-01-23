@@ -21,6 +21,8 @@ I hope you will be able to customize this bot for your own use and use it to int
 # 🧠 Basic architecture
 ![architecture](/documents/architecture.png)
 
+This repository is made based on [🦜️🔗 LangChain](https://github.com/hwchase17/langchain), which is excellent library to make text generation application.
+
 ZeroShotAgent uses the following tools for answering questions.
 - **Get urls**: Returns pre-defined social media url.
 - **Get recent tweets**: Returns the content of recent tweets. From this content, bot can reply to the recent interests and trends of the interviewee.
