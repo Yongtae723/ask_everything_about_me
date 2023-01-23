@@ -8,7 +8,15 @@ This bot can do the following on your behalf
 # 👀 Let's try!
 You can try this bot from [here](https://about-yongtae-cfa5uiil5a-an.a.run.app/).
 
+# ⭐ Use Case
+
+The use cases I assume are as follows
+
+- Individuals/companies can introduce themselves to individuals/companies
+- When you don't know how to write your introduction, Bot can help you
+
 I hope you will be able to customize this bot for your own use and use it to introduce yourself, especially as a job-seeking appeal.
+
 # 🧠 Basic architecture
 ![architecture](/documents/architecture.png)
 
