@@ -5,7 +5,8 @@ This bot can do the following on your behalf
 - Analyze your tweets and show you what you are interested in these days.
 - Answer questions about you from your blog or profile.
 
-You can try this bot from [here]().
+# 👀 Let's try!
+You can try this bot from [here](https://about-yongtae-cfa5uiil5a-an.a.run.app/).
 
 I hope you will be able to customize this bot for your own use and use it to introduce yourself, especially as a job-seeking appeal.
 # 🧠 Basic architecture
