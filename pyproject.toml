@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "ask-everything-about-me"
+version = "0.1.0"
+description = ""
+authors = ["yong <yong723.enjoy.everything@gmail.com>"]
+readme = "README.md"
+packages = [{include = "ask_everything_about_me"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+langchain = "^0.0.65"
+openai = "^0.26.1"
+pydantic = "^1.10.4"
+tweepy = "^4.12.1"
+streamlit-chat = "^0.0.2.1"
+sentence-transformers = "^2.2.2"
+faiss-cpu = "^1.7.3"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+isort = "^5.11.4"
+black = "^22.12.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
